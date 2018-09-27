@@ -11,5 +11,7 @@ public class Demo005 {
         System.out.println(real.getName()+"\n");
 
         real.cook();
+
+        real.dance();
     }
 }
