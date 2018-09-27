@@ -8,9 +8,9 @@ public abstract class  TheImaginationThing {
     private String hobby;
 
 
-
+    //抽象方法
     void dance(){
-        System.out.println("dance");
+        System.out.println("我会Ican dance");
 
     }
 
