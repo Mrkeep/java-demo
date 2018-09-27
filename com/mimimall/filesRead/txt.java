@@ -27,7 +27,7 @@ public class txt {
             File writename = new File("F:\\example.txt");
             writename.createNewFile(); // 创建新文件
             BufferedWriter out = new BufferedWriter(new FileWriter(writename));
-            out.write("我会写入文件啦\r\n"); // \r\n即为换行
+            out.write("文件写入成功\r\n"); // \r\n即为换行
             out.flush(); // 把缓存区内容压入文件
             out.close(); // 最后记得关闭文件
 
