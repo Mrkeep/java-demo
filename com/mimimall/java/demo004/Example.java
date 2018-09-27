@@ -1,11 +1,13 @@
 package com.mimimall.java.demo004;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.UUID;
 
 public class Example {
 
     public static void main(String[] args) {
-        //Java实例:加减运算
+        //Java实例:加减运算4
         Integer a = addNum(8,9);
         Integer b = addNum(8,8);
 
@@ -18,11 +20,12 @@ public class Example {
 
         //生成UUID实例
         String myUUID = UUID.randomUUID().toString().replaceAll("-","");
-        System.out.println("我的UUID实例"+myUUID);
+        System.out.println("我的UUID实例:"+myUUID);
 
     }
 
 
+        List<String> nameList = new ArrayList<>();
 
 
 
