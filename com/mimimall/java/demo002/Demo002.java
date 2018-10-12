@@ -32,9 +32,6 @@ public class Demo002 {
         String a = ((NewBornDog) dog1).bornLittleDog();
         System.out.println(a);
 
-
-
-
         //由于继承有用父类的方法
         NewBornDog newBornDog = new NewBornDog();
         newBornDog.sing();

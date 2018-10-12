@@ -1,6 +1,5 @@
 package com.mimimall.jihe;
 
-import com.mimimall.demo.Dog;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -22,12 +22,16 @@ public class Demo003 {
         white.setName("小白");
         white.setAge(3);
         white.setColor("白色");
+
+
         System.out.println("我的第1只小狗是"+yellow.getName()+"，颜色是："+yellow.getColor()+"，今年"+yellow.getAge()+"岁了");
         yellow.barking();
         yellow.running();
         yellow.jumping();
+
         System.out.println("---------我是分界线---------"+"\n");
         System.out.println("我的第2只小狗是"+black.getName()+"，颜色是："+black.getColor()+"，今年"+yellow.getAge()+"岁了");
+
         black.barking();
         black.running();
         black.jumping();
