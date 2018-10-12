@@ -1,4 +1,4 @@
-package com.mimimall.demo002;
+package mimimall.demo002;
 
 
 

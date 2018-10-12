@@ -1,4 +1,4 @@
-package com.mimimall.filesRead;
+package mimimall.filesRead;
 
 import java.io.File;
 import java.io.InputStreamReader;
