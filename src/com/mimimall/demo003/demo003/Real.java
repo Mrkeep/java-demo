@@ -5,17 +5,17 @@ public class Real extends TheImaginationThing{
 
         private int age;
 
-    @Override
+
     public String getName() {
         return name;
     }
 
-    @Override
+
     public int getAge() {
         return age;
     }
 
-    @Override
+
     public void setAge(int age) {
         this.age = age;
     }

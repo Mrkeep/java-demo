@@ -6,9 +6,10 @@ public class Example {
 
     public static void main(String[] args) {
         //Java实例:加减运算4
+        Integer c;
         Integer a = addNum(8,9);
         Integer b = addNum(8,8);
-
+        System.out.println(addNum(9,90));
         System.out.println(a);
         System.out.println(b);
         System.out.println(a+b);

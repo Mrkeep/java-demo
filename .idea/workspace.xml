@@ -2,49 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13c3faf8-0741-4d32-915e-073f2ef20a44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Java_First_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Java_First_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_airlift_log_0_173.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mimimall/demo/Demo004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mimimall/demo/Demo006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mimimall/demo/Kid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mimimall/demo/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_First.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_First.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/demo/Demo003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo/Demo003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/demo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/demo/内容" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo/内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/demo002/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo002/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/demo002/AgainWrite/AgainWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/demo002/AgainWrite/AgainWrite001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/demo002/AgainWrite/Demo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/Demo001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/demo002/AgainWrite/重写" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/重写" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/demo002/Demo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo002/Demo001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/demo002/方法重载" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo002/方法重载" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/filesRead/txt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/filesRead/txt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/java/demo002/Demo002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo005/Demo002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/java/demo002/NewBornDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo005/NewBornDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/java/demo002/TaiDiDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo005/TaiDiDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/java/demo002/继承" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo005/继承" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/java/demo003/Demo005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Demo005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/java/demo003/Real.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Real.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/java/demo003/TheImaginationThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo003/TheImaginationThing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/java/demo003/抽象方法" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo003/抽象方法" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/java/demo004/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo004/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/java/demo004/Java实例加减法-随机数" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo004/Java实例加减法-随机数" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/jihe/Demo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/jihe/Demo001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/jihe/List集合0001" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/jihe/List集合0001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/mock/ReceiveData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/mock/ReceiveData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/mock/SendData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/mock/SendData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/mimimall/more/people/MorePeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/more/people/MorePeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mimimall/demo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Real.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Real.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mimimall/demo003/demo004/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/demo003/demo004/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mimimall/jihe/Demo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/jihe/Demo001.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,86 +24,59 @@
     <session id="-1995115824">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="18" />
-          <entry key="内容" value="1" />
+          <entry key="Java实例加减法-随机数" value="1" />
+          <entry key="java" value="51" />
+          <entry key="xml" value="1" />
+          <entry key="内容" value="4" />
+          <entry key="方法重载" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="18" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="51" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="434" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="434" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite.java">
+        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/Add.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="270">
+              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite001.java">
+        <entry file="file://$PROJECT_DIR$/src/com/mimimall/filesRead/txt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/Demo001.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Demo005.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Real.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo003/TheImaginationThing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="-330">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -144,26 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo005/Demo002.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo005/NewBornDog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo005/TaiDiDog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="270">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -171,16 +93,76 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo004/Example.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="168">
+              <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/Demo001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mimimall/mock/ReceiveData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo004/Java实例加减法-随机数">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mimimall/jihe/Demo001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mimimall/mock/SendData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo005/Demo002.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -189,6 +171,16 @@
         <option value="$PROJECT_DIR$/src/com/mimimall/java/demo006/Demo002.java" />
         <option value="$PROJECT_DIR$/src/com/mimimall/demo003/demo005/Demo002.java" />
         <option value="$PROJECT_DIR$/src/com/mimimall/demo003/demo005/TaiDiDog.java" />
+        <option value="$PROJECT_DIR$/src/com/mimimall/demo/Demo004.java" />
+        <option value="$PROJECT_DIR$/src/com/mimimall/demo/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/mimimall/demo/Kid.java" />
+        <option value="$PROJECT_DIR$/src/com/mimimall/demo/Demo006.java" />
+        <option value="$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite001.java" />
+        <option value="$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite.java" />
+        <option value="$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Real.java" />
+        <option value="$PROJECT_DIR$/src/com/mimimall/demo/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/mimimall/demo003/demo004/Example.java" />
+        <option value="$PROJECT_DIR$/src/com/mimimall/jihe/Demo001.java" />
       </list>
     </option>
   </component>
@@ -208,10 +200,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1096" />
-    <option name="height" value="1896" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -219,8 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,24 +302,63 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="mimimall" type="462c0819:PsiDirectoryNode" />
+              <item name="filesRead" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mimimall" type="462c0819:PsiDirectoryNode" />
               <item name="jihe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mimimall" type="462c0819:PsiDirectoryNode" />
+              <item name="mock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mimimall" type="462c0819:PsiDirectoryNode" />
+              <item name="people" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_First" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539664340221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539691987678" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -348,6 +377,89 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.Example">
+    <configuration name="Demo001 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mimimall.demo002.AgainWrite.Demo001" />
+      <module name="Java_First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mimimall.demo002.AgainWrite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo001 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mimimall.demo002.Demo001" />
+      <module name="Java_First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mimimall.demo002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mimimall.demo.Demo003" />
+      <module name="Java_First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mimimall.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mimimall.demo.Demo004" />
+      <module name="Java_First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mimimall.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mimimall.demo003.demo004.Example" />
+      <module name="Java_First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mimimall.demo003.demo004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo001 (1)" />
+      <item itemvalue="Application.Example" />
+      <item itemvalue="Application.Demo003" />
+      <item itemvalue="Application.Demo001 (2)" />
+      <item itemvalue="Application.Demo004" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.Demo004" />
+        <item itemvalue="Application.Demo001 (2)" />
+        <item itemvalue="Application.Demo003" />
+        <item itemvalue="Application.Demo001 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -358,46 +470,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539663756610</updated>
-      <workItem from="1539663761128" duration="544000" />
+      <workItem from="1539663761128" duration="4675000" />
+      <workItem from="1539676449576" duration="599000" />
+      <workItem from="1539688849778" duration="3008000" />
     </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1539664392813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539664392813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="544000" />
+    <option name="totallyTimeSpent" value="8282000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1096" height="1896" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33203125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20175439" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32942554" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49730095" weight="0.30521473" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49902344" weight="0.32923257" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297546" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5026991" side_tool="true" visible="true" weight="0.30521473" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49902344" weight="0.32923257" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.3297546" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,56 +537,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/Demo003.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo005/NewBornDog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/filesRead/txt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/内容">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/jihe/Demo001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -466,24 +556,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo004/Example.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="1890">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Real.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/Demo003.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="38">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Demo005.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/方法重载">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo005/TaiDiDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/Demo006.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/Kid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/AgainWrite/AgainWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -494,24 +652,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Real.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo003/Demo005.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/内容">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/Demo004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/more/people/MorePeople.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/mock/SendData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/mock/ReceiveData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo004/Java实例加减法-随机数">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/Demo001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo002/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/filesRead/txt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo005/Demo002.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="270">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo005/TaiDiDog.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="138">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo005/NewBornDog.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/demo003/demo004/Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        <state relative-caret-position="168">
+          <caret line="44" column="21" lean-forward="true" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/jihe/Demo001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
