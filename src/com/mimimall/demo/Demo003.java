@@ -29,14 +29,14 @@ public class Demo003 {
         yellow.running();
         yellow.jumping();
 
-        System.out.println("---------我是分界线---------"+"\n");
+        System.out.println("---------我是分界线1---------"+"\n");
         System.out.println("我的第2只小狗是"+black.getName()+"，颜色是："+black.getColor()+"，今年"+yellow.getAge()+"岁了");
 
         black.barking();
         black.running();
         black.jumping();
 
-        System.out.println("---------我是分界线---------"+"\n");
+        System.out.println("---------我是分界线2---------"+"\n");
         System.out.println("我的第3只小狗是"+white.getName()+"，颜色是："+white.getColor()+"，今年"+white.getAge()+"岁了");
         white.barking();
         white.running();
