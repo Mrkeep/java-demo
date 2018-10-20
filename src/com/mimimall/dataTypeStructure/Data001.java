@@ -19,6 +19,7 @@ public class Data001 {
         StringBuffer an =new StringBuffer("start");
         StringBuffer QQ = an.append("a").insert(2,"J");
         System.out.println(QQ);
+
     }
 
 

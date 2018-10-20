@@ -6,5 +6,7 @@ public class SelfLearnThing {
         StringBuffer an =new StringBuffer("start");
         StringBuffer QQ = an.append("a").insert(2,"J");
         System.out.println(QQ);
+        System.out.println(an.substring(3));
+        System.out.println(an.substring(3,4));
     }
 }
