@@ -1,6 +1,6 @@
 package com.szz;
 
-public class Bianliang {
+public class BianLiang {
     /**
      * 什么是变量？
      * 变量就是一个容器，用来存放数据的

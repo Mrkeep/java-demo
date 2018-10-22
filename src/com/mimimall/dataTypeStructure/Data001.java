@@ -16,9 +16,7 @@ public class Data001 {
         System.out.println("-----------我是分割线----------");
         System.out.println(differ3(b,q));
 
-        StringBuffer an =new StringBuffer("start");
-        StringBuffer QQ = an.append("a").insert(2,"J");
-        System.out.println(QQ);
+
 
     }
 

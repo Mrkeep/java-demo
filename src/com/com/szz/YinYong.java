@@ -2,7 +2,7 @@ package com.szz;
 
 import java.util.Arrays;
 
-public class Yinyong {
+public class YinYong {
 /**
  *引用数据类型:
  *
@@ -21,13 +21,13 @@ public class Yinyong {
     String name;
     float score;
     String xkm;
-    public void chengji(String name, float score,String xkm){
+    public void chengJi(String name, float score,String xkm){
         System.out.println("姓名="+ name+" 科目="+xkm+" 分数="+score);
     }
     public static void main(String[] args){
-        Yinyong yy=new Yinyong();
-        yy.chengji("小明",89.9f,"数学");
-//        Cysjlx one=new Cysjlx();
+        YinYong yy=new YinYong();
+        yy.chengJi("小明",89.9f,"数学");
+//        CysJlx one=new CysJlx();
 //        int a1=one.ja(1,2);
 //        int a2=one.ja(4,5,6);
 //        int a3=one.jian(1,2);

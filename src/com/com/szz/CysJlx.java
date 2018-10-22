@@ -1,6 +1,6 @@
 package com.szz;
 
-public class Cysjlx {
+public class CysJlx {
     /**
      * 数值型：整型：byte  short  int  long  浮点型： float  double
      * 非数值型：char String  boolean
@@ -71,7 +71,7 @@ public class Cysjlx {
             char c7;
             c7=(char)s4;
 
-        Cysjlx one=new Cysjlx();
+        CysJlx one=new CysJlx();
         int a1=one.ja(100,200);
         int a2=one.ja(4,5,6);
         int a3=one.jian(1,2);
