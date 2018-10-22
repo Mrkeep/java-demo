@@ -27,33 +27,33 @@ public class CysJlx {
         return c;
     }
    public static  void main(String[] args){
-//          byte age=127;//8位
-//          System.out.println(t);
-//          System.out.println(Byte.MAX_VALUE);
-//          System.out.println(Byte.MIN_VALUE);
-//          int i=129;//3位
-//          System.out.println(Integer.MAX_VALUE);
-//          System.out.println(Integer.toString(i));
-//          float f=1.0f;//单精度32位
-//          double d=456.23;//双精度64位
-//          long l=456l;//64位
-//          short s=589;//16位
-//          char c='1';
-//          boolean b=true;
-//          System.out.println(b);
-//          //自动转化
-//          char sex='女';
-//          String name="dd";
-//          System.out.println(S1+c1);
-//          String S2=c1+S1;
-//
-//          int i1=10;
-//          double d1=2.33;
-//          double d2=i1+d1;
-//
-//          //强制转化
-//          double d3=3.56;
-//          int i4=(int)d3;
+          byte age=127;//8位
+          System.out.println(age);
+          System.out.println(Byte.MAX_VALUE);
+          System.out.println(Byte.MIN_VALUE);
+          int i=129;//3位
+          System.out.println(Integer.MAX_VALUE);
+          System.out.println(Integer.toString(i));
+          float f=1.0f;//单精度32位
+          double d=456.23;//双精度64位
+          long l=456l;//64位
+          short s=589;//16位
+          char c='1';
+          boolean b=true;
+          System.out.println(b);
+          //自动转化
+          char sex='女';
+          String name="dd";
+          System.out.println(sex+name);
+          String S2=name+sex;
+
+          int i1=10;
+          double d1=2.33;
+          double d2=i1+d1;
+
+          //强制转化
+          double d3=3.56;
+          int i4=(int)d3;
 
 /**
  整型、实型（常量）、字符型数据可以混合运算。运算中，不同类型的数据先转化为同一类型，然后进行运算。
