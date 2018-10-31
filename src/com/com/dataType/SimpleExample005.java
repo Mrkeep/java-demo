@@ -1,4 +1,7 @@
 package com.dataType;
+
+import com.util.AllInUse;
+
 /*
 *   展示作用域:方法内,调用完后,即销毁;不在写执行方法了
 *
