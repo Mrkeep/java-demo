@@ -14,7 +14,7 @@ public class SimpleExample004 extends AllInUse {
         //匿名内部类
         System.out.println(new SimpleExample004().travel());
         StringBuffer o = new SimpleExample004().like();
-        //继承AllInUse类--内部类使用
+        //继承AllInUse类--内部类使用--获取常量值
         System.out.println(new SimpleExample004().like().append(new AllInUse().getApp_Key()));
 
 
