@@ -1,6 +1,8 @@
 package com.dataType;
 
-public class SimpleExample004 {
+import com.util.AllInUse;
+
+public class SimpleExample004 extends AllInUse {
     //全局变量a 没有初始化;默认值为null;大括号内皆可引用;
     String a ;
 
@@ -12,7 +14,9 @@ public class SimpleExample004 {
         //匿名内部类
         System.out.println(new SimpleExample004().travel());
         StringBuffer o = new SimpleExample004().like();
-        System.out.println(new SimpleExample004().like());
+        //继承AllInUse类
+        System.out.println(new SimpleExample004().like().append(new AllInUse().getApp_Key()));
+
 
     }
 
