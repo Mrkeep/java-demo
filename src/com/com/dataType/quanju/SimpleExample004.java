@@ -46,10 +46,13 @@ public class SimpleExample004 extends AllInUse {
         System.out.println("请输入数字");
         while (true){
             String nextLine = scanner.nextLine();
+            System.out.println("请接着输入数字!!!");
             if (nextLine.equals("exit")){
                 System.out.println(q);
+                break;
                 //System.out.println(a); //引用a报错
             }
         }
+        return true;
     };
 }
