@@ -2,10 +2,12 @@ package com.dataType;
 
 import com.util.AllInUse;
 
+import java.util.Scanner;
+
 public class SimpleExample004 extends AllInUse {
     //全局变量a 没有初始化;默认值为null;大括号内皆可引用;
     String a ;
-
+    static String q = "程序退出";
 
     public static void main(String[] args) {
         SimpleExample004 simpleExample004 = new SimpleExample004();
@@ -16,7 +18,9 @@ public class SimpleExample004 extends AllInUse {
         StringBuffer o = new SimpleExample004().like();
         //继承AllInUse类--内部类使用--获取常量值
         System.out.println(new SimpleExample004().like().append(new AllInUse().getApp_Key()));
-
+        System.out.println("---------我是分界线-----------");
+        //
+        ab();
 
     }
 
@@ -35,5 +39,17 @@ public class SimpleExample004 extends AllInUse {
     StringBuffer like(){
         StringBuffer q = d.append(a).append("*").append(".").append("*").append(a);
         return q;
+    };
+    //思考?为什么不能引用String a;
+    static Boolean ab (){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("请输入数字");
+        while (true){
+            String nextLine = scanner.nextLine();
+            if (nextLine.equals("exit")){
+                System.out.println(q);
+                //System.out.println(a); //引用a报错
+            }
+        }
     };
 }
