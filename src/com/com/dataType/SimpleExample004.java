@@ -40,7 +40,7 @@ public class SimpleExample004 extends AllInUse {
         StringBuffer q = d.append(a).append("*").append(".").append("*").append(a);
         return q;
     };
-    //思考?为什么不能引用String a;
+    //思考?为什么不能引用String a,同为全局变量;
     static Boolean ab (){
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入数字");
