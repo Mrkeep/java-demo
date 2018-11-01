@@ -8,6 +8,8 @@ public class SimpleExample007 {
 
 
         //静态代码块
+        //静态代码块作用:直接在类中定义且没有加static关键字的代码块称为{}构造代码;
+        //　　作用：给对象统一初始化数据
         {
             String name = "big";
             System.out.println(name);
