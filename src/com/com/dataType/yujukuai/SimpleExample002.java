@@ -1,4 +1,4 @@
-package com.dataType;
+package com.dataType.yujukuai;
 
 import java.util.ArrayList;
 import java.util.List;

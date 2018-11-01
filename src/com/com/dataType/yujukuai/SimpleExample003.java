@@ -1,4 +1,4 @@
-package com.dataType;
+package com.dataType.yujukuai;
 
 public class SimpleExample003 {
     //声明在语句块中

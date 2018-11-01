@@ -1,4 +1,4 @@
-package com.dataType;
+package com.dataType.quanju;
 
 import com.util.AllInUse;
 
