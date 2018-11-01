@@ -23,4 +23,9 @@ public class SimpleExample002 {
         }
         return number;
     };
+
+    //已经超出作用域,所以不能再引用.
+//    Integer a = d; //已经超出作用域了.d的作用域在for循环中.,
+
+
 }
