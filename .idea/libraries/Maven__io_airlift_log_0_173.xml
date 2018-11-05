@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: io.airlift:log:0.173">
     <CLASSES>
-      <root url="jar://F:/Maven-projectssssssssss/repository-ofMine/io/airlift/log/0.173/log-0.173.jar!/" />
+      <root url="jar://E:/Maven-projectssssssssss/repository-ofMine/io/airlift/log/0.173/log-0.173.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://F:/Maven-projectssssssssss/repository-ofMine/io/airlift/log/0.173/log-0.173-javadoc.jar!/" />
+      <root url="jar://E:/Maven-projectssssssssss/repository-ofMine/io/airlift/log/0.173/log-0.173-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://F:/Maven-projectssssssssss/repository-ofMine/io/airlift/log/0.173/log-0.173-sources.jar!/" />
+      <root url="jar://E:/Maven-projectssssssssss/repository-ofMine/io/airlift/log/0.173/log-0.173-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

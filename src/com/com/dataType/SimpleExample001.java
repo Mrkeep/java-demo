@@ -1,6 +1,8 @@
 package com.dataType;
 
 
+import java.math.BigDecimal;
+
 public class SimpleExample001 {
     //声明在方法中
     public static void main(String[] args) {
@@ -14,4 +16,6 @@ public class SimpleExample001 {
         Integer a =6;
         return a*9;
     };
+
+
 }
