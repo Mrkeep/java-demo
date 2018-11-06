@@ -1,6 +1,8 @@
 package com.dataType.quanju;
 
 import com.util.AllInUse;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.Scanner;
 
@@ -8,6 +10,9 @@ public class SimpleExample004 extends AllInUse {
     //全局变量a 没有初始化;默认值为null;大括号内皆可引用;
     String a ;
     static String q = "程序退出";
+
+    //日志工厂类
+    public static final Logger logger= LoggerFactory.getLogger(Logger.class);
 
     public static void main(String[] args) {
         SimpleExample004 simpleExample004 = new SimpleExample004();
@@ -21,7 +26,7 @@ public class SimpleExample004 extends AllInUse {
         System.out.println("---------我是分界线-----------");
         //
         ab();
-
+        logger.info("程序退出");
     }
 
 
@@ -40,6 +45,7 @@ public class SimpleExample004 extends AllInUse {
         StringBuffer q = d.append(a).append("*").append(".").append("*").append(a);
         return q;
     };
+
     //思考?为什么不能引用String a,同为全局变量;
     static Boolean ab (){
         Scanner scanner = new Scanner(System.in);
