@@ -1,4 +1,4 @@
-package mimimall.selfLearn;
+package com.mimimall.selfLearn;
 
 public class SelfLearnThing {
     //StringBuffer is better than String sometimes

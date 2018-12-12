@@ -9,8 +9,5 @@
         <module name="Java_First" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Java_First" target="1.7" />
-    </bytecodeTargetLevel>
   </component>
 </project>

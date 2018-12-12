@@ -1,4 +1,4 @@
-package com.com.nidaizi.mimall2;
+package com.nidaizi.mimall2;
 
 public class Yunsuanfu {
     public static void main(String[] args) {

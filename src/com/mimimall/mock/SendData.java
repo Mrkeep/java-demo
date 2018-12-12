@@ -1,4 +1,4 @@
-package mimimall.mock;
+package com.mimimall.mock;
 
 public class SendData {
 

@@ -1,4 +1,4 @@
-package mimimall.dataTypeStructure;
+package com.mimimall.dataTypeStructure;
 
 public class Data001 {
 
