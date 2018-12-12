@@ -1,7 +1,4 @@
-package com.dataType;
-
-
-import java.math.BigDecimal;
+package dataType;
 
 public class SimpleExample001 {
     //声明在方法中
@@ -16,6 +13,5 @@ public class SimpleExample001 {
         Integer a =6;
         return a*9;
     };
-
 
 }

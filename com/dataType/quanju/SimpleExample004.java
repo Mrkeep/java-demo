@@ -1,9 +1,6 @@
-package com.dataType.quanju;
+package dataType.quanju;
 
 import com.util.AllInUse;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import java.util.Scanner;
 
 public class SimpleExample004 extends AllInUse {
@@ -11,8 +8,7 @@ public class SimpleExample004 extends AllInUse {
     String a ;
     static String q = "程序退出";
 
-    //日志工厂类
-    public static final Logger logger= LoggerFactory.getLogger(Logger.class);
+
 
     public static void main(String[] args) {
         SimpleExample004 simpleExample004 = new SimpleExample004();
@@ -26,7 +22,7 @@ public class SimpleExample004 extends AllInUse {
         System.out.println("---------我是分界线-----------");
         //
         ab();
-        logger.info("程序退出");
+
     }
 
 

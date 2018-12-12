@@ -2,90 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2c06447-7fa1-4250-862f-e524b61d6254" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sonar-project.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Java_First_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Java_First_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/xu.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_airlift_log_0_173.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dataType/dataType2/Example008.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_First.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/com/nidaizi/mimall2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall2/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/com/nidaizi/mimall2/If_else.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall2/If_else.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/com/nidaizi/mimall2/If_else2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall2/If_else2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/com/nidaizi/mimall2/Puppy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall2/Puppy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/com/nidaizi/mimall2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/com/nidaizi/mimall2/Yunsuanfu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall2/Yunsuanfu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/com/nidaizi/mimall2/新增目录" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall2/新增目录" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/Java 变量类型和作用域" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/Java 变量类型和作用域" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/SimpleExample001.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dataType/SimpleExample001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/SimpleExample005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/SimpleExample005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/SimpleExample006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/SimpleExample006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/dataType2/SimpleExample007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/dataType2/SimpleExample007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/dataType2/作用域引起的问题" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/dataType2/作用域引起的问题" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/quanju/SimpleExample004.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dataType/quanju/SimpleExample004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/quanju/全局变量" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/quanju/全局变量" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/thread/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/thread/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/yujukuai/SimpleExample002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/yujukuai/SimpleExample002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/yujukuai/SimpleExample003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/yujukuai/SimpleExample003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/yujukuai/语句块" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/yujukuai/语句块" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/dataType/变量类型和初始化" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dataType/变量类型和初始化" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/midaizi/mimall/Demo003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/midaizi/mimall/Demo003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/midaizi/mimall/Demo004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/midaizi/mimall/Demo004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/midaizi/mimall/Demo006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/midaizi/mimall/Demo006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/midaizi/mimall/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/midaizi/mimall/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/midaizi/mimall/Kid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/midaizi/mimall/Kid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/midaizi/mimall/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/midaizi/mimall/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/midaizi/mimall/内容" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/midaizi/mimall/内容" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/demo003/demo003/Demo005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/demo003/demo003/Demo005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/demo003/demo003/Real.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/demo003/demo003/Real.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/demo003/demo003/TheImaginationThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/demo003/demo003/TheImaginationThing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/demo003/demo003/抽象方法" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/demo003/demo003/抽象方法" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/demo003/demo004/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/demo003/demo004/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/demo003/demo004/Java实例加减法-随机数" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/demo003/demo004/Java实例加减法-随机数" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/demo003/demo005/Demo002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/demo003/demo005/Demo002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/demo003/demo005/NewBornDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/demo003/demo005/NewBornDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/demo003/demo005/TaiDiDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/demo003/demo005/TaiDiDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/demo003/demo005/继承" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/demo003/demo005/继承" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/filesRead/txt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/filesRead/txt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/filesRead/文件读取" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/filesRead/文件读取" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/jihe/Demo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/jihe/Demo001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/jihe/List集合0001" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/jihe/List集合0001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/mimall2/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/mimall2/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/mimall2/AgainWrite/AgainWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/mimall2/AgainWrite/AgainWrite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/mimall2/AgainWrite/AgainWrite001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/mimall2/AgainWrite/AgainWrite001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/mimall2/AgainWrite/Demo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/mimall2/AgainWrite/Demo001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/mimall2/AgainWrite/重写" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/mimall2/AgainWrite/重写" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/mimall2/Demo001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/mimall2/Demo001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/mimall2/方法重载" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/mimall2/方法重载" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/mock/ReceiveData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/mock/ReceiveData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/mock/SendData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/mock/SendData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/nidaizi/mimall/mock/mock方法" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nidaizi/mimall/mock/mock方法" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/szz/BianLiang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/szz/BianLiang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/szz/Buer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/szz/Buer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/szz/ChangLiang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/szz/ChangLiang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/szz/CysJlx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/szz/CysJlx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/szz/YinYong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/szz/YinYong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/util/AllInUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/util/AllInUse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/util/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/util/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/com/util/Uuid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/util/Uuid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mimimall/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mimimall/dataTypeStructure/Data001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/dataTypeStructure/Data001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mimimall/mock/ReceiveData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/mock/ReceiveData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mimimall/mock/SendData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/mock/SendData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mimimall/selfLearn/SelfLearnThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mimimall/selfLearn/SelfLearnThing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/dataType/SimpleExample001.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dataType/SimpleExample001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/dataType/quanju/SimpleExample004.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/dataType/quanju/SimpleExample004.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -113,30 +33,59 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Java 变量类型和作用域" value="1" />
-          <entry key="java" value="61" />
+          <entry key="java" value="78" />
           <entry key="mock方法" value="1" />
+          <entry key="全局变量" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="61" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JAVA" value="78" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="499" />
+          <entry key="txt" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="499" />
+          <entry key="PLAIN_TEXT" value="36" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dataType/dataType2/SimpleExample007.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dataType/dataType2/Example008.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -156,6 +105,11 @@
         <option value="$PROJECT_DIR$/src/com/mimimall/mock/SendData.java" />
         <option value="$PROJECT_DIR$/src/com/mimimall/selfLearn/SelfLearnThing.java" />
         <option value="$PROJECT_DIR$/src/com/mimimall/One.java" />
+        <option value="$PROJECT_DIR$/com/dataType/quanju/SimpleExample004.java" />
+        <option value="$PROJECT_DIR$/com/dataType/SimpleExample001.java" />
+        <option value="$PROJECT_DIR$/src/com/util/For.java" />
+        <option value="$PROJECT_DIR$/src/com/Example/For.java" />
+        <option value="$PROJECT_DIR$/src/com/dataType/dataType2/Example008.java" />
       </list>
     </option>
   </component>
@@ -179,6 +133,27 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Java_First Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Java_First Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Java_First Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="width" value="1400" />
@@ -196,6 +171,36 @@
             <path>
               <item name="Java_First" type="58d84e3e:PackageViewProjectNode" />
               <item name="Java_First" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Java_First" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java_First" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Java_First" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java_First" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="dataType" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Java_First" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java_First" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="dataType" type="1f31426a:PackageElementNode" />
+              <item name="dataType2" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Java_First" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java_First" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="mimimall" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Java_First" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java_First" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="szz" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="Java_First" type="58d84e3e:PackageViewProjectNode" />
@@ -234,12 +239,18 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544595665716" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544598935713" />
     <property name="last_opened_file_path" value="D:/git/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.Example" />
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,7 +264,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleExample001">
+  <component name="RunManager" selected="Application.Example008">
+    <configuration name="Example008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dataType.dataType2.Example008" />
+      <module name="Java_First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dataType.dataType2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Example.For" />
+      <module name="Java_First" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleExample001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dataType.SimpleExample001" />
       <module name="Java_First" />
@@ -283,9 +320,13 @@
     <list>
       <item itemvalue="Application.SimpleExample001" />
       <item itemvalue="Application.SimpleExample004" />
+      <item itemvalue="Application.For" />
+      <item itemvalue="Application.Example008" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example008" />
+        <item itemvalue="Application.For" />
         <item itemvalue="Application.SimpleExample001" />
         <item itemvalue="Application.SimpleExample004" />
       </list>
@@ -310,15 +351,31 @@
       <workItem from="1544086072138" duration="17000" />
       <workItem from="1544421563198" duration="358000" />
       <workItem from="1544499981440" duration="301000" />
-      <workItem from="1544595480727" duration="384000" />
+      <workItem from="1544595480727" duration="3453000" />
     </task>
+    <task id="LOCAL-00001" summary="包冲突解决.">
+      <created>1544595910024</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544595910024</updated>
+    </task>
+    <task id="LOCAL-00002" summary="解决包冲突问题,新增if嵌套小案例">
+      <created>1544598263266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544598263266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2147000" />
+    <option name="totallyTimeSpent" value="5216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -331,7 +388,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32962137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -340,13 +397,13 @@
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32962137" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32962137" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.21380846" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32995737" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -355,45 +412,45 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="包冲突解决." />
+    <MESSAGE value="解决包冲突问题,新增if嵌套小案例" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决包冲突问题,新增if嵌套小案例" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dataType/Java 变量类型和作用域">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nidaizi/mimall2/If_else.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dataType/dataType2/SimpleExample007.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dataType/thread/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dataType/SimpleExample005.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dataType/SimpleExample006.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -408,13 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/midaizi/mimall/Demo003.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -436,13 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mimimall/dataTypeStructure/Data001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -626,6 +669,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/szz/ChangLiang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/szz/YinYong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/szz/BianLiang.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -640,17 +697,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/szz/ChangLiang.java">
+    <entry file="file://$PROJECT_DIR$/src/com/szz/CysJlx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/szz/YinYong.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dataType/quanju/全局变量">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dataType/thread/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/midaizi/mimall/Demo003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mimimall/dataTypeStructure/Data001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dataType/SimpleExample005.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dataType/SimpleExample006.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/dataType/quanju/SimpleExample004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/dataType/SimpleExample001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -675,20 +780,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/dataType/quanju/SimpleExample004.java">
+    <entry file="file://$PROJECT_DIR$/src/com/Example/For.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="468">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/dataType/SimpleExample001.java">
+    <entry file="file://$PROJECT_DIR$/src/com/dataType/dataType2/SimpleExample007.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dataType/dataType2/Example008.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
